@@ -1,0 +1,13 @@
+C:\Users\tyler\source\repos\GettingRich\GettingRich\obj\Debug\GettingRich.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\GettingRich\GettingRich\obj\Debug\GettingRich.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\GettingRich\GettingRich\bin\Debug\GettingRich.exe.config
+C:\Users\tyler\source\repos\GettingRich\GettingRich\bin\Debug\GettingRich.exe
+C:\Users\tyler\source\repos\GettingRich\GettingRich\bin\Debug\GettingRich.pdb
+C:\Users\tyler\source\repos\GettingRich\GettingRich\obj\Debug\GettingRich.exe
+C:\Users\tyler\source\repos\GettingRich\GettingRich\obj\Debug\GettingRich.pdb
+C:\Users\tyler\OneDrive\Desktop\GettingRich\GettingRich\GettingRich\bin\Debug\GettingRich.exe.config
+C:\Users\tyler\OneDrive\Desktop\GettingRich\GettingRich\GettingRich\bin\Debug\GettingRich.exe
+C:\Users\tyler\OneDrive\Desktop\GettingRich\GettingRich\GettingRich\bin\Debug\GettingRich.pdb
+C:\Users\tyler\OneDrive\Desktop\GettingRich\GettingRich\GettingRich\obj\Debug\GettingRich.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\GettingRich\GettingRich\GettingRich\obj\Debug\GettingRich.exe
+C:\Users\tyler\OneDrive\Desktop\GettingRich\GettingRich\GettingRich\obj\Debug\GettingRich.pdb

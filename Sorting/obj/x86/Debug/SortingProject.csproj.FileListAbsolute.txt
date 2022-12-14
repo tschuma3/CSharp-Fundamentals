@@ -1,0 +1,7 @@
+C:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\bin\Debug\SortingProject.exe
+C:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\bin\Debug\SortingProject.pdb
+C:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\obj\x86\Debug\SortingProject.exe
+C:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\obj\x86\Debug\SortingProject.pdb
+D:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\obj\x86\Debug\SortingProject.exe
+D:\Courses\GDD 2200\Readings\Iterative Sorting\SortingProject\obj\x86\Debug\SortingProject.pdb

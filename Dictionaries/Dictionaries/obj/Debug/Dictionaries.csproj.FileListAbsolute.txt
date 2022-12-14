@@ -1,0 +1,20 @@
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\timch\Documents\Visual Studio 2017\Projects\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+D:\Dropbox\Courses\GDD 2200\Group Work\Lesson 22 Dictionaries\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\tyler\OneDrive\Desktop\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\tyler\OneDrive\Desktop\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\tyler\OneDrive\Desktop\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\tyler\OneDrive\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\tyler\OneDrive\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
